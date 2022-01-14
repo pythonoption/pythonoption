@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @pythonoption
-- 👀 I’m interested in stock, Js, html5, css3, python.
-- 🌱 I’m currently learning html.
-- 💞️ I’m looking to collaborate on FANNG.
-- 📫 How to reach me through the github
-
-<!---
-pythonoption/pythonoption is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I come from China. Now I live in Masschusetts for 4 years (2019.2 --  2022). 
+I am learning Java, MySQL, Computer Networking, Discrete Math, Linux.
+My dream is to be a full stack programmer.
+Data Structrue and Algorithms are complicated buy I keep learing.
+I know the framework like SpringBoot are important , but the basic knowledge such as computer organization and design, conputer architecture and so on are essential (more important) in my mind.
+The computer world is an extension of the real world, but it's also full of compromisesz. Nothing is perfect, but we can try our best to do something meaningful.
